@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>model3d/Survival_BackPack_2/1001_albedo.jpg</file>
+        <file>model3d/Survival_BackPack_2/1001_AO.jpg</file>
+        <file>model3d/Survival_BackPack_2/1001_metallic.jpg</file>
+        <file>model3d/Survival_BackPack_2/1001_normal.png</file>
+        <file>model3d/Survival_BackPack_2/1001_roughness.jpg</file>
+        <file>model3d/Survival_BackPack_2/Survival_BackPack_2.fbx</file>
+        <file>model3d/cabinet/柜子fbx.fbx</file>
+    </qresource>
+</RCC>

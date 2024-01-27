@@ -1,0 +1,65 @@
+# Blender MTL File: 'untitled.blend'
+# Material Count: 7
+
+newmtl None
+Ns 0
+Ka 0.000000 0.000000 0.000000
+Kd 0.8 0.8 0.8
+Ks 0.8 0.8 0.8
+d 1
+illum 2
+map_Kd Diffuse/Frame_Diffuse.jpg
+
+newmtl None_Blanket_Bottom_Diffuse
+Ns 0
+Ka 0.000000 0.000000 0.000000
+Kd 0.8 0.8 0.8
+Ks 0.8 0.8 0.8
+d 1
+illum 2
+map_Kd Diffuse/Blanket_Bottom_Diffuse.jpg
+
+newmtl None_Blanket_Top_Diffuse
+Ns 0
+Ka 0.000000 0.000000 0.000000
+Kd 0.8 0.8 0.8
+Ks 0.8 0.8 0.8
+d 1
+illum 2
+map_Kd Diffuse/Blanket_Top_Diffuse.jpg
+
+newmtl None_Matress_Top_Diffuse
+Ns 0
+Ka 0.000000 0.000000 0.000000
+Kd 0.8 0.8 0.8
+Ks 0.8 0.8 0.8
+d 1
+illum 2
+map_Kd Diffuse/Matress_Top_Diffuse.jpg
+
+newmtl None_Pillows_Bottom_Diffuse
+Ns 0
+Ka 0.000000 0.000000 0.000000
+Kd 0.8 0.8 0.8
+Ks 0.8 0.8 0.8
+d 1
+illum 2
+map_Kd Diffuse/Pillows_Bottom_Diffuse.jpg
+
+newmtl None_Pillows_Top_Diffuse
+Ns 0
+Ka 0.000000 0.000000 0.000000
+Kd 0.8 0.8 0.8
+Ks 0.8 0.8 0.8
+d 1
+illum 2
+map_Kd Diffuse/Pillows_Top_Diffuse.jpg
+
+newmtl None_Untitled
+Ns 0
+Ka 0.000000 0.000000 0.000000
+Kd 0.8 0.8 0.8
+Ks 0.8 0.8 0.8
+d 1
+illum 2
+map_Kd Diffuse/Matress_Bottom_Diffuse.jpg
