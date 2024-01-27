@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>glsl/primitive.frag</file>
+        <file>glsl/primitive.vert</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>glsl/lightCube.frag</file>
+        <file>glsl/lightCube.vert</file>
+        <file>glsl/lighting.vert</file>
+        <file>glsl/lighting.frag</file>
+    </qresource>
+</RCC>

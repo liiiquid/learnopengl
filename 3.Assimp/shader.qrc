@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>glsl/survivalbackpack.vsh</file>
+        <file>glsl/survivalbackpack.fsh</file>
+    </qresource>
+</RCC>
